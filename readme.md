@@ -1,0 +1,1 @@
+= React JS application using Redux and ExpressJS backend
