@@ -1,1 +1,1 @@
-= React JS application using Redux and ExpressJS backend
+## React JS application using Redux and ExpressJS backend
